@@ -1,1 +1,1 @@
-# odin-recipes This will be my first project in my journey web development journey using Git
+# odin-recipes This will be my first project on my web development journey using Git
